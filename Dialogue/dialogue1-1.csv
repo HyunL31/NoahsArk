@@ -1,0 +1,14 @@
+﻿Name,Text,Emotion
+Mayor,"Noah, over here! You came really quickly. Thanks as always. ",Happy
+Noah,It’s my job after all.,Smile
+Noah," So, you couldn’t find the cause of the fire? And the fire still hasn’t been put out?",Smile
+Mayor,"That’s right… A big fire broke out at this house last night, but…",Sad
+Mayor,The homeowner was too busy playing games and didn’t even notice.,Sad
+Noah,He didn’t even realize the fire had started because he was playing games?,Curious
+Mayor,Exactly… I don’t know what’s going on…,Sad
+Noah,"If the fire had started while he was at home,",Curious
+Noah,"He should have reported it, and it could have been extinguished quickly.",Curious
+Mayor,"Yes, exactly. They say the homeowner spends all day lost in games.",Sad
+Mayor,"Anyway, I have no clue how to put out this big fire…",Sad
+Mayor,"On top of that, we need to find out the cause to determine if it was an accident or a crime…",Sad
+Noah,Don’t worry. I’ll extinguish the fire and figure out the cause.,Smile

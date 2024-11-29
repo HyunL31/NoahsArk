@@ -1,0 +1,13 @@
+﻿Name,Text,Emotion,ShowToast,ToastCount,Toast1,Toast2
+Noah,"First of all, diets need to be done slowly, without rushing.",1,,,,
+Noah,"If not, it can be dangerous for your health.",2,,,,
+Man,Can I really trust you?,1,,,,
+Noah,"Yes, trust me.",1,,,,
+Noah,"If you exercise regularly and eat healthy meals for breakfast, lunch,",1,,,,
+Noah,"and dinner while cutting back on snacks, you’ll lose weight.",1,TRUE,2,“Excessive dieting can harm your health.” ,"“If it’s hard to control your weight alone, you can consult a professional.” "
+Man,Hmm… Wait a minute. Let me ask ‘Eve.’,1,,,,
+Noah,"No, did you lose any weight following ‘Eve’s’ advice?",3,,,,
+Man,"No, but… I don’t feel comfortable making decisions on my own… ",1,,,,
+Noah,Your life belongs to you. You’re the one who makes the choice.,2,,,,
+Noah,Just try following my advice for one week.,1,,,,
+Man,Well… If it’s just for a week…,2,,,,

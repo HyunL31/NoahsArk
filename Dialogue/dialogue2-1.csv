@@ -1,0 +1,13 @@
+﻿Name,Text,Emotion,ShowToast,ToastCount,Toast1,
+Noah,Are you okay? My goodness... You’re bleeding...!,1,,,,
+Noah, You need to go to the hospital!,1,,,,
+Student,Do I really have to go to the hospital?,2,,,,
+Student,I read online that doctors will try to recommend expensive treatments just to make money!,1,,,,
+Noah,Who on earth told you that?,2,,,,
+Student,Here!,2,TRUE,1,"""…From now on, you cannot go to the hospital! The evil doctors have conspired to charge more money! …""",
+Noah,....,3,,,,
+Noah,"This is fake news! If you’re hurt, you need to go to the hospital.",1,,,,
+Noah,You shouldn’t believe everything you read from unknown sources with no credibility.,1,TRUE,2,"""There’s a lot of fake news on the internet.""","""Make sure to check the source and credibility."""
+Student,Then what should I do...?,2,,,,
+Student," I lost my phone, so I can’t even use the AI ‘Eve’...",2,,,,
+Noah,Sigh... Hang on. I’ll help you.,3,,,,

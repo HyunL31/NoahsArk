@@ -1,0 +1,7 @@
+﻿Name,Text,Emotion,ShowToast,ToastCount,Toast1,Toast2
+Noah,This is...?! ,1,,,,
+Noah,It’s a link to a website?,1,,,,
+Noah,Why would they give me something like this?,2,,,,
+Noah,Should I take a look...?,2,TRUE,2,"“Smishing, Phishing Crimes: Clicking on links in texts or emails can result in personal information or money being stolen.” ",“You can prevent this by ignoring unverified texts or emails and using your phone’s built-in security features.”
+Noah,No... Suspicious links could be traps.,2,,,,
+Noah,Hmm... ‘Eve’... Something’s bothering me... ,3,,,,

@@ -1,0 +1,16 @@
+﻿Name,Text,Emotion,ShowToast,ToastCount,Toast1,Toast2
+Noah,"First, if you fall while riding an electric scooter and can’t move,",2,,,,
+Noah,Ask for help from people around you or call an ambulance.,2,TRUE,2,"""When riding a scooter, follow traffic rules and wear protective gear.""","""The emergency number is ‘119’."""
+Noah,"If your tooth is broken, pick up the broken tooth and carefully put it in milk or saline.",2,,,,
+Noah,"Then, take it to the dentist.",1,,,,
+Student,Wow! So I can get my tooth reattached?,1,TRUE,1,Be careful not to touch the root of the tooth or let it come in contact with anything.,
+Noah,"Yes, that’s right.",1,,,,
+Student,Thank you so much!,2,,,,
+Student,"I don’t have money, but... ",2,,,,
+Student,here! It’s a puzzle.,2,,,,
+Reward,"""Puzzle""",,,,,
+Student,I asked ‘Eve’ and she said this would make the detective happy!,2,,,,
+Noah,"Oh, thank you.",1,,,,
+Noah,"By the way, is that ‘Eve’ thing popular these days?",2,,,,
+Student,Of course! I don’t think there’s anyone who doesn’t use it now!,2,,,,
+Student,"It does everything for you, so it’s super convenient!",2,,,,
